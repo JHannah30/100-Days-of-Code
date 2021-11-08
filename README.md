@@ -79,7 +79,7 @@ Working on this game has made me aware that whilst I know how to build things in
 
 ### Day 6: 8th November 2021
 - Continued with React course by TheNetNinja. I learned:
-  - That logical && evaluates the code to it's left first, before moving on to the right (Eg. --this is read first-- && --this is read second--)
+  - That logical && evaluates the code to it's left first, before moving on to the right. In my code, if the left-sided code evaluates to falsy, my application doesn't render a HTML element.
   - How to add a .json data file to local files
   - How to apply useEffect to run async code and fetch requests
 - I have a chat scheduled on Wednesday about a Junior UX Designer role. Worked on my portfolio some more in preparation, adding my final SoC project, Emission Impossible.

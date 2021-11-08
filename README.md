@@ -68,7 +68,7 @@ Day 3 has been a bit of a UX and CSS day. Made some more progress with the highe
   }
 ~~~~
 - Realised that whilst 3 cards looked pretty in the UI, it was quite confusing to debug. I decided to remove a card.
-- 
+
 ![](higher-lower-stage-4.gif)
 
 

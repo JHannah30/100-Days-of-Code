@@ -4,8 +4,7 @@
 
 I've recently graduated from School of Code's part-time bootcamp and to prevent myself from slipping out of the habit/mindset of coding, I wanted to have a commitment that pushes me to keep progressing and developing my skills. Not only that, I want a way of measuring my improvements to make sure that I'm moving forward.
 
-To complete the challenge, I'll be spending a minimum of 1 hour each day coding (*or learning a related technology/topic*), documenting my progress along the way through this repository. Let's see where these next 100 days take me!
-\
+To complete the challenge, I'll be spending a minimum of 1 hour each day coding (*or learning a related technology/topic*), documenting my progress along the way through this repository. Let's see where these next 100 days take me!\
 
 ## Progress
 

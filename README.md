@@ -37,8 +37,8 @@ The second day was a long and (slightly) frustrating coding experience, but it w
 ## Day 3: 5th November 2021
 
 Day 3 has been a bit of a UX and CSS day. Made some more progress with the higher and lower game and it's really starting to come together now. So, my day:
-- Drafted some low-fidelity wireframes of the higher/lower game's main UI
-- Picked one I liked and coded it into the HTML/CSS
+- Drafted some low-fidelity wireframes of the higher/lower game's main UI.
+- Picked one I liked and coded it into the HTML/CSS.
 
 ![](higher-lower-stage-3.gif)
 
@@ -80,7 +80,17 @@ Working on this game has made me aware that whilst I know how to build things in
 ## Day 6: 8th November 2021
 - Continued with React course by TheNetNinja. I learned:
   - That logical && evaluates the code to it's left first, before moving on to the right. In my code, if the left-sided code evaluates to falsy, my application doesn't render a HTML element.
-  - How to add a .json data file to local files
-  - How to apply useEffect to run async code and fetch requests
+  - How to add a .json data file to local files.
+  - How to apply useEffect to run async code and fetch requests.
 - I have a chat scheduled on Wednesday about a Junior UX Designer role. Worked on my portfolio some more in preparation, adding my final SoC project, Emission Impossible.
 - Added state to higher/lower game which let's users know the result of that round.
+
+## Day 7: 9th November 2021
+- Continued with React course by TheNetNinja. I learned:
+  - How to handle fetch errors.
+  - How to create custom hooks
+
+- Prepped for my chat about the UX roole tomorrow:
+  - Read about the company and their mission
+  - Read around web accessibility and had a flick through WCAG 2.1
+  - Practiced low-fidelity wireframing on Figma

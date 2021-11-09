@@ -90,7 +90,7 @@ Working on this game has made me aware that whilst I know how to build things in
   - How to handle fetch errors.
   - How to create custom hooks
 
-- Prepped for my chat about the UX roole tomorrow:
+- Prepped for my chat about the UX role tomorrow:
   - Read about the company and their mission
   - Read around web accessibility and had a flick through WCAG 2.1
   - Practiced low-fidelity wireframing on Figma
